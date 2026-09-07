@@ -1,0 +1,10 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user-specific files
+*.user
+.vs/
+
+# Ignore all DLLs to prevent committing game binaries
+*.dll
